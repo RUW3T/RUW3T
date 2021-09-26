@@ -2,7 +2,7 @@
 
 - 🌱 I’m currently learning **javascript**
 
-- ⚡ Fun fact **saya mau alox**
+- ⚡ Fun fact **turle🐢**
 
 
 <h3 align="left">Languages and Tools:</h3>
