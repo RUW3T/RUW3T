@@ -1,5 +1,4 @@
 <h1 align="center">Hi 👋, I'm RUW3T</h1>
-<h3 align="center">I'm</h3>
 
 - 🌱 I’m currently learning **javascript**
 
