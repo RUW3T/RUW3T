@@ -2,7 +2,7 @@
 
 - 🌱 I’m currently learning **JavaScript**
 
-- ⚡ Fun fact **turle🐢**
+- ⚡ Fun fact **i like turle🐢**
 
 - 👯 I’m looking to collaborate on Gjenius20
 
