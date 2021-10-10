@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm RUW3T</h1>
 
-- 🌱 I’m currently learning **javascript**
+- 🌱 I’m currently learning **JavaScript**
 
 - ⚡ Fun fact **turle🐢**
 
