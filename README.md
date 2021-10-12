@@ -4,7 +4,7 @@
 
 - ⚡ Fun fact **i like turle🐢**
 
-- 👯 I’m looking to collaborate on Gjenius20
+- 👯 I’m looking to collaborate on [Gjenius20](https://github.com/Gjenius20)
 
 
 <h3 align="left">Languages and Tools:</h3>
