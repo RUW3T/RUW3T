@@ -3,7 +3,7 @@
 
 - 👯 I’m looking to collaborate on [Gjenius20](https://github.com/Gjenius20/)
 
-- ⚡ Fun fact **I LIKE POKEMON**
+- ⚡ Fun fact **I Like Pokemon**
 
 
 <h3 align="left">Languages and Tools:</h3>
