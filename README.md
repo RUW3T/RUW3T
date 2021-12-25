@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm RUW3T</h1>
 <h3 align="left">Im beginner programer</h3>
 
-- 🌱 I’m currently learning **Anything**
+- 🌱 I’m currently learning **Java**
 
 - 👯 I’m looking to collaborate on [Gjenius20](https://github.com/Gjenius20/)
 
