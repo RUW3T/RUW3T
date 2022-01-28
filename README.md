@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **Java**
 
-- 👯 I’m looking to collaborate on [Gjenius20](https://github.com/Gjenius20/)
+- 👯 I’m looking to collaborate with [Gjenius20](https://github.com/Gjenius20/)
 
 - ⚡ Fun fact **I Like Cat**
 
