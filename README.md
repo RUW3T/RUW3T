@@ -1,28 +1,18 @@
-<br clear="both">
-
 <h2 align="center">heyy there👋</h2>
 
 ###
-
-<br clear="both">
 
 <h4 align="left">» About me</h4>
 
 ###
 
-<br clear="both">
-
 <p align="left">I'm Aziz and I'm a student from Indonesian<br><br>- 🚀 I'm currently learning JavaScript & web development<br>- 🔥 Always excited to learn new programming languages and frameworks<br>- 🌍 Open to making new friends and collaborating on projects</p>
 
 ###
 
-<br clear="both">
-
 <h4 align="left">» Language</h4>
 
 ###
-
-<br clear="both">
 
 <div align="left">
   <img src="https://skillicons.dev/icons?i=html" height="30" alt="html5 logo"  />
@@ -36,13 +26,9 @@
 
 ###
 
-<br clear="both">
-
 <h4 align="left">» Media Sosial</h4>
 
 ###
-
-<br clear="both">
 
 <div align="left">
   <a href="https://www.instagram.com/kixccx_" target="_blank">
